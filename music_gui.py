@@ -339,7 +339,7 @@ def main():
     
     # Footer
     st.markdown("---")
-    st.markdown("Made with ❤️ using Streamlit, Ray, and Librosa by Tehreem, Khadija, Huzaira 😎")
+    st.markdown("Made with ❤️ using Streamlit, Ray, and Librosa by Khadija.")
 
 if __name__ == "__main__":
     main()
