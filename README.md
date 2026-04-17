@@ -3,14 +3,14 @@
 A fast, parallelized system for music genre and mood prediction, plus song recommendations, built with machine learning and audio processing.
 
 ## Project Goal
-This project aims to solve the problem of **slow music analysis and recommendation** by leveraging **parallel computing** to speed up audio feature processing and genre prediction.
+This project aims to solve the problem of slow music analysis and recommendation by leveraging parallel computing to speed up audio feature processing and genre prediction.
 
 ## Features
 - Genre classification of audio files using a trained Random Forest model.
 - Mood detection based on extracted features.
-- Fast, parallel processing of input files using **Ray**.
-- Song recommendations based on **cosine similarity** of extracted features.
-- Interactive user interface powered by **Streamlit**.
+- Fast, parallel processing of input files using Ray.
+- Song recommendations based on cosine similarity of extracted features.
+- Interactive user interface powered by Streamlit.
 
 ## Tech Stack
 - **Language:** Python  
